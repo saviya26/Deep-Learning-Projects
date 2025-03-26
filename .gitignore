@@ -1,0 +1,17 @@
+bin/
+lib/
+include/
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.ipynb_checkpoints/
+env/
+venv/
+*.log
+Datasets/
+Images/
+.DS_Store
+Environment/
+man/
+share/
