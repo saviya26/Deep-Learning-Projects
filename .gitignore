@@ -10,7 +10,6 @@ env/
 venv/
 *.log
 Datasets/
-Images/
 .DS_Store
 Environment/
 man/
